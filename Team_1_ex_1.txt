@@ -1,0 +1,84 @@
+Esercizio Boolean
+Fare la spesa seguendo una lista
+Fatti mandare dalla mamma a prendere il latte
+Nel frigo si inizia a sentire l’eco, perciò è ora di fare rifornimenti!
+Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca in una lista, così una volta al supermercato, girando tra gli scaffali, posso verificare di aver preso tutto e Ricky non rimane senza crocchette come l’ultima volta, povero! Devo ricordarmi di usare il coupon che scade a fine mese, per il resto dovrebbero bastarmi i contanti che ho in portafogli, sempre se non mi faccio prendere la mano con gli snack extra! 
+
+Problema: Fare la spesa
+
+Dimenticherò il latte se non lo segno nella lista?Probabile.
+
+Soluzione
+
+
+Prendo un blocco note ed una penna
+Mi dirigo verso il frigorifero
+Apro il frigorifero
+	SE il frigo è vuoto
+		Segno gli alimenti che mancano e che sono da comprare
+        Quando ho finito
+        Mi dirigo verso la dispensa
+        Apro il cassetto degli snack
+        controllo se ci sono gli snack
+            SE non ci sono gli snack per Ricky
+            li segno sulla lista
+            quando ho finito la lista
+            prendo il coupon per gli snack
+            metto in tasca il coupon, la lista ed il portafogli
+            mi dirigo verso il supermercato
+            arrivo al supermercato
+            vado all'entrata del supermercato
+            prendo il carrello
+            entro nel supermercato
+            controllo la lista
+            vado nei reparti che mi interessano
+            prendo le cose segnate sulla lista
+            arrivo al reparto cani
+            controllo che ci siano le crocchette del copuon
+                SE ci sono
+                le metto nel carrello
+                    SE ho finito la lista delle cose da comprare
+                    mi reco alla cassa
+                    metto i prodotti sul nastro
+                    porgo il coupon alla cassiera
+                    metto i prodotti nelle buste
+                    porto i prodotti a casa 
+                    sistemo i prodotti negli appositi posti
+                        SE non ho dimenticato il latte sono felice
+
+
+	
+
+	ALTRIMENTI Non vado a fare la spesa
+            ALTRIMENTI Non li segno sulla lista
+                ALTRIMENTI dieta
+                    ALTRIMENTI continuo il giro nel supermercato
+                        ALTRIMENTI la mamma si arrabbia
+
+
+Versione Flow-chart
+
+Inizio
+    Controllo il frigo
+    SE il frigo è vuoto 
+    Faccio la lista dei prodotti che mancano
+    Prendo il coupon delle crocchette e lo metto nel portafoglio
+    Vado al supermercato
+    Faccio un giro per gli scaffali
+    Metto i prodotti segnati sulla lista nel carrello
+        SE ci sono le crocchette
+        Le metto nel carrello
+        Ricontrollo la spesa e faccio due conti
+            SE Ho abbastanza contanti
+            Metto gli snack extra nel carrello
+            Mi reco in cassa
+            Mostro il coupon per gli crocchette e pago
+            Metto la spesa nelle buste
+            Vado a casa
+            Metto i prodotti al loro posto
+
+    ALTRIMENTI Non vado a fare la spesa
+        ALTRIMENTI Le cerco da un'altra parte
+            ALTRIMENTI Non compro gli snack extra
+
+            fine
